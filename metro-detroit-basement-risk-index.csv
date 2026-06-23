@@ -1,0 +1,117 @@
+rank,community,bri_score,pct_homes_pre_1960,median_home_value_usd,scoring_basis,profile_url
+1,Pleasant Ridge,100,94,393900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/pleasant-ridge
+2,Grosse Pointe,96,88,379400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-pointe
+3,Grosse Pointe Park,96,88,445100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-pointe-park
+4,Detroit,92,78,66700,modeled from U.S. Census housing data + City of Detroit 311 water-in-basement records,https://basementriskcheck.com/community/detroit
+5,Hamtramck,91,80,103100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/hamtramck
+6,Grosse Pointe Farms,88,86,409200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-pointe-farms
+7,Huntington Woods,87,87,457600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/huntington-woods
+8,Ferndale,85,78,218000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/ferndale
+9,River Rouge,83,74,49200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/river-rouge
+10,Berkley,82,79,275100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/berkley
+11,Wyandotte,79,76,147900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/wyandotte
+12,Eastpointe,77,77,115100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/eastpointe
+13,Allen Park,77,77,165600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/allen-park
+14,Redford Township,77,77,130900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/redford-twp
+15,Grosse Pointe Woods,77,75,309700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-pointe-woods
+16,Dearborn,76,72,189400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/dearborn
+17,Harper Woods,75,74,134900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/harper-woods
+18,Lincoln Park,75,73,109500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/lincoln-park
+19,Melvindale,73,64,95900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/melvindale
+20,Ecorse,72,68,52000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/ecorse
+21,Garden City,71,70,152800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/garden-city
+22,Northville,69,57,558200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/northville
+23,Village of Clarkston,68,63,436800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/clarkston
+24,Inkster,67,64,69000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/inkster
+25,Sylvan Lake,67,62,310000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/sylvan-lake
+26,Highland Park,67,59,59400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/highland-park
+27,Oak Park,66,63,176900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/oak-park
+28,Hazel Park,66,62,129300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/hazel-park
+29,Mount Clemens,66,61,150900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/mount-clemens
+30,St. Clair Shores,65,62,181300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/st-clair-shores
+31,Lathrup Village,65,60,261800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/lathrup-village
+32,Royal Oak,64,60,289800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/royal-oak
+33,Clawson,62,58,237000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/clawson
+34,Dearborn Heights,62,58,161200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/dearborn-heights
+35,Memphis,60,54,166300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/memphis
+36,Center Line,58,53,131900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/center-line
+37,Wayne,58,53,127600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/wayne
+38,Birmingham,57,52,679700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/birmingham
+39,Lake Angelus,57,52,1213200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/lake-angelus
+40,Plymouth,57,51,413100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/plymouth
+41,Madison Heights,55,50,172500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/madison-heights
+42,Southfield Township,55,50,483200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/southfield-twp
+43,Trenton,55,50,188100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/trenton
+44,Pontiac,55,49,100100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/pontiac
+45,Southgate,54,49,152400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/southgate
+46,Roseville,53,48,129400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/roseville
+47,Village of Grosse Pointe Shores,53,47,645800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-pointe-shores
+48,Taylor,49,44,132300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/taylor
+49,Livonia,46,40,249000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/livonia
+50,Royal Oak Township,44,37,118100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/royal-oak-twp
+51,Farmington,43,38,262400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/farmington
+52,Keego Harbor,40,37,226600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/keego-harbor
+53,Ray Township,39,39,374700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/ray-twp
+54,Riverview,39,32,188000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/riverview
+55,Warren,39,31,169300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/warren
+56,Westland,38,33,164900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/westland
+57,Rockwood,38,31,179800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/rockwood
+58,Waterford Township,36,33,223300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/waterford-twp
+59,Bloomfield Township,35,28,542400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/bloomfield-twp
+60,Fraser,34,30,178900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/fraser
+61,Armada Township,33,33,289500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/armada-twp
+62,Southfield,33,26,212800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/southfield
+63,Novi Township,33,23,477800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/novi-twp
+64,Flat Rock,32,35,178300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/flat-rock
+65,Sumpter Township,32,30,240800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/sumpter-twp
+66,Grosse Ile Township,32,30,337800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/grosse-ile-twp
+67,Romulus,32,27,138500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/romulus
+68,Richmond,30,35,221500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/richmond
+69,Gibraltar,30,29,181700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/gibraltar
+70,Belleville,28,28,148200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/belleville
+71,Bloomfield Hills,28,22,933000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/bloomfield-hills
+72,Utica,26,23,199600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/utica
+73,Richmond Township,25,24,289500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/richmond-twp
+74,Walled Lake,23,21,192800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/walled-lake
+75,Highland Township,22,19,299000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/highland-twp
+76,Rochester,21,21,447800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/rochester
+77,Bruce Township,20,24,333000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/bruce-twp
+78,Harrison Township,20,16,241700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/harrison-twp
+79,Farmington Hills,20,16,319000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/farmington-hills
+80,Plymouth Township,20,15,384800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/plymouth-twp
+81,Van Buren Township,19,18,222800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/van-buren-twp
+82,Rose Township,19,17,293800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/rose-twp
+83,Holly Township,18,23,213800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/holly-twp
+84,White Lake Township,18,18,289100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/white-lake-twp
+85,West Bloomfield Township,18,15,375900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/west-bloomfield-twp
+86,Troy,18,12,375600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/troy
+87,Addison Township,17,22,406400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/addison-twp
+88,Orchard Lake Village,17,17,767900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/orchard-lake-village
+89,Clinton Township,17,14,198800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/clinton-twp
+90,Orion Township,16,20,322600,modeled from U.S. Census housing data,https://basementriskcheck.com/community/orion-twp
+91,Sterling Heights,16,8,243400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/sterling-heights
+92,Milford Township,15,19,384900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/milford-twp
+93,Groveland Township,15,15,299100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/groveland-twp
+94,Independence Township,15,15,330000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/independence-twp
+95,Brandon Township,14,13,291300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/brandon-twp
+96,Woodhaven,14,7,211300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/woodhaven
+97,Rochester Hills,13,11,359800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/rochester-hills
+98,Huron Township,12,21,263400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/huron-twp
+99,Auburn Hills,12,15,215400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/auburn-hills
+100,New Baltimore,11,19,283500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/new-baltimore
+101,Commerce Township,11,15,316300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/commerce-twp
+102,Shelby Township,9,11,316400,modeled from U.S. Census housing data,https://basementriskcheck.com/community/shelby-twp
+103,Wixom,9,6,321000,modeled from U.S. Census housing data,https://basementriskcheck.com/community/wixom
+104,South Lyon,8,11,249800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/south-lyon
+105,Lenox Township,7,15,187300,modeled from U.S. Census housing data,https://basementriskcheck.com/community/lenox-twp
+106,Oxford Township,7,13,324700,modeled from U.S. Census housing data,https://basementriskcheck.com/community/oxford-twp
+107,Springfield Township,7,10,348500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/springfield-twp
+108,Washington Township,6,11,366100,modeled from U.S. Census housing data,https://basementriskcheck.com/community/washington-twp
+109,Chesterfield Township,5,8,258200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/chesterfield-twp
+110,Brownstown Township,4,9,242500,modeled from U.S. Census housing data,https://basementriskcheck.com/community/brownstown-twp
+111,Oakland Township,3,9,528900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/oakland-twp
+112,Northville Township,3,7,490800,modeled from U.S. Census housing data,https://basementriskcheck.com/community/northville-twp
+113,Novi,3,5,380200,modeled from U.S. Census housing data,https://basementriskcheck.com/community/novi
+114,Canton Township,3,3,329900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/canton-twp
+115,Lyon Township,2,7,426900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/lyon-twp
+116,Macomb Township,1,4,337900,modeled from U.S. Census housing data,https://basementriskcheck.com/community/macomb-twp
