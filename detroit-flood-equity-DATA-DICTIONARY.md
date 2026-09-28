@@ -17,8 +17,8 @@ It places the City of Detroit's documented basement-flooding record next to neig
 
 ## Sources
 
-- City of Detroit, Improve Detroit / 311 service requests: water-in-basement records. The full record is more than 13,400 reports (precise count 13,433 as of June 2026). This file reports a normalized rate per 1,000 homes, not raw counts.
-- U.S. Census American Community Survey (ACS): median household income and race by ZIP.
+- City of Detroit, Improve Detroit / 311 service requests: water-in-basement records. This file's rates were computed from the June 2026 snapshot of the record. The live record passed 13,900 reports by September 2026. This file reports a normalized rate per 1,000 homes, not raw counts.
+- U.S. Census American Community Survey (ACS) 2018-2022 5-year estimates: median household income and race by ZIP.
 
 ## Scope and limitations
 
